@@ -1,0 +1,9 @@
+{
+  "name": "Sikkim Shield | Official Deployment",
+  "description": "Premium vehicle security for Sikkim, hosted securely on GitHub. Featuring AI-driven monitoring and Himalayan terrain optimization.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
